@@ -18,11 +18,6 @@ export function Badge({
           srcSet="https://liveblocks.io/badge-dark.svg"
           media="(prefers-color-scheme: dark)"
         />
-        <img
-          src="https://liveblocks.io/badge-light.svg"
-          alt="Made with Liveblocks"
-          className={styles.image}
-        />
       </picture>
     </a>
   );
