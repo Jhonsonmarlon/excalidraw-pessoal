@@ -3,3 +3,7 @@
 html, body {
   margin: 0;
 }
+
+.tl-watermark_SEE-LICENSE {
+  display: none;
+}
