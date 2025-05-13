@@ -4,6 +4,6 @@ html, body {
   margin: 0;
 }
 
-.tl-watermark_SEE-LICENSE {
+.tl-watermark_SEE-LICENSE > a {
   display: none;
 }
